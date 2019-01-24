@@ -26,12 +26,12 @@ https://github.com/jaredrummler/AnimatedSvgView
 https://p1.music.126.net/Y3K7KBE2I_0aSMgsIBUaQQ==/109951163814081318.gif
 
 
-提醒： 如果你是使用path、color数组请参照这位大神的方法即可, 不必再往下看了
-    （ https://github.com/jaredrummler/AnimatedSvgView ）
+**提醒： 如果你是使用path、color数组请参照这位大神的方法即可, 不必再往下看了
+    （ https://github.com/jaredrummler/AnimatedSvgView ）**
     
     
     
-###再次提醒: 有需要图片转svg格式的请看结尾 
+**再次提醒: 有需要图片转svg格式的请看结尾 **
 
 
 
@@ -45,8 +45,9 @@ https://p1.music.126.net/Y3K7KBE2I_0aSMgsIBUaQQ==/109951163814081318.gif
 
 
 
+--
 
-#使用方法：
+**使用方法：**
 
 --
 
@@ -118,8 +119,9 @@ https://github.com/jaredrummler/AnimatedSvgView
 
 
 
+--
 
-#普通图片转SVG文件方法
+**普通图片转SVG文件方法**
 
 
 ![预览](https://upload-images.jianshu.io/upload_images/13840072-508580be41b76d96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/702/format/webp)
@@ -129,8 +131,9 @@ https://github.com/jaredrummler/AnimatedSvgView
 --
 
 
+--
 
-###工具： AI
+**工具： AI**
 
 ``
 具体步骤参考：
@@ -147,8 +150,9 @@ https://www.jianshu.com/p/052e28e97872
 
 =======================================================================================
 
+--
 
-##感谢
+**感谢**
 
 https://github.com/jaredrummler/AnimatedSvgView
 
@@ -160,7 +164,10 @@ https://github.com/jaredrummler/AnimatedSvgView
 --
 
 =========================================================================================
-#Licence
+
+--
+
+**Licence**
 
 -----------声明？许可证？其实这东西我也不知道有什么用， 菜鸡果然是菜鸡，我还要努力学习---------
 
