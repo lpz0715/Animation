@@ -149,16 +149,27 @@ https://github.com/jaredrummler/AnimatedSvgView**
 **普通图片转SVG文件方法**
 
 
+**工具： AI**
+
+
+![预览](https://upload-images.jianshu.io/upload_images/13840072-6fe53133f01a16c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/926/format/webp)
+
+--
+
+![预览](https://upload-images.jianshu.io/upload_images/13840072-7be70d10241f176e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+--
+
+![预览](https://upload-images.jianshu.io/upload_images/13840072-b9cf11b5b9f30b8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/854/format/webp)
+
+--
+
+![预览](https://upload-images.jianshu.io/upload_images/13840072-85e63d8df3aac2f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+--
+
 ![预览](https://upload-images.jianshu.io/upload_images/13840072-508580be41b76d96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/702/format/webp)
 
---
-
---
-
-
---
-
-**工具： AI**
 
 ``
 具体步骤参考：
