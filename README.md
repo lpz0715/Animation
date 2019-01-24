@@ -19,7 +19,8 @@ https://github.com/jaredrummler/AnimatedSvgView
 
 
 提醒：
-    如果你是使用path、color数组请参照这位大神的方法即可, 不必再往下看！（ https://github.com/jaredrummler/AnimatedSvgView ）
+    如果你是使用path、color数组请参照这位大神的方法即可, 不必再往下看！
+    （ https://github.com/jaredrummler/AnimatedSvgView ）
     
 
 
@@ -34,17 +35,29 @@ https://github.com/jaredrummler/AnimatedSvgView
 
 2、xml:
 
+
 <com.jaredrummler.android.widget.AnimatedSvgView
+
     android:id="@+id/animated_svg_view"
+    
     android:layout_width="180dp"
+    
     android:layout_height="180dp"
+    
     android:layout_gravity="center"
+    
     android:layout_marginBottom="25dp"
+    
     app:animatedSvgFillStart="2000"
+    
     app:animatedSvgFillTime="2000"
+    
     app:animatedSvgImageSizeX="500"
+    
     app:animatedSvgImageSizeY="500"
+    
     app:animatedSvgTraceTime="2000"
+    
     app:animatedSvgTraceTimePerGlyph="1000"/>
 
 ----------
@@ -55,9 +68,13 @@ https://github.com/jaredrummler/AnimatedSvgView
 
 
  svgView.startSvgDataResource(asstes_name);
+ 
         svgView.setViewportSize(600, 700);
+        
         svgView.setTraceResidueColor(0x22000000);
+        
         svgView.rebuildGlyphData();
+        
         svgView.start();
 
 
@@ -77,6 +94,7 @@ https://github.com/jaredrummler/AnimatedSvgView
 License
 
 -----------------其实这东西我也不知道有什么用，声明？许可证？ 菜鸡果然是菜鸡，我还要努力学习---------------------------
+
 
 
 Copyright (C) 2016, Jared Rummler
